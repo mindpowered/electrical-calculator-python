@@ -1,0 +1,9 @@
+README.md
+electricalc.py
+mindpowered_electricalc.egg-info/PKG-INFO
+mindpowered_electricalc.egg-info/SOURCES.txt
+mindpowered_electricalc.egg-info/dependency_links.txt
+mindpowered_electricalc.egg-info/requires.txt
+mindpowered_electricalc.egg-info/top_level.txt
+wrappers/ElectriCalc.py
+wrappers/__init__.py
